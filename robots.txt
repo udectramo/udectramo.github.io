@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://udectramo.github.io/sitemap.html.gz
+Sitemap: https://udectramo.github.io/app/sitemap.html.gz
+Sitemap: https://udectramo.github.io/assets/sitemap.html.gz
+Sitemap: https://udectramo.github.io/css/sitemap.html.gz
+Sitemap: https://udectramo.github.io/includes/sitemap.html.gz
+Sitemap: https://udectramo.github.io/item/sitemap.html.gz
+Sitemap: https://udectramo.github.io/src/sitemap.html.gz
